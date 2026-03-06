@@ -49,4 +49,4 @@ EOF
 chmod +x iniciar-xfce.sh
 ln -s ~/iniciar-xfce.sh $PREFIX/bin/iniciarxfce
 
-echo "${GREEN}Ambiente configurado com sucesso. Para iniciar o XCFE, use ${RED}iniciarxfce${GREEN}."
+echo -e "${GREEN}Ambiente configurado com sucesso. Para iniciar o XCFE, use ${RED}iniciarxfce${GREEN}."
